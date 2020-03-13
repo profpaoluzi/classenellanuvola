@@ -3,6 +3,6 @@ layout: post
 title:  "Benvenuti sulla nuvola"
 ---
 
-# Benvenuti
+## Eccoci qua...
 
-Eccoci sulla nuvola a provare a studiare
+Proviamo a vedere cosa possiamo fare in questi giorni di lontananza.
