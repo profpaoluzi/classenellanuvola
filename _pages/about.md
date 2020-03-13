@@ -4,10 +4,13 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Questo sito è un tentativo di rimanere in contatto e provare a fare un po' di *matematica* da parte del vostro insegnante.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+E voi siete gli studenti del prof. Paoluzi dell'Istituto di Istruzione Superiore "Domizia Lucilla" di Roma.
+
+
+Questo sito è costruito con **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[^1]:una piattaforma che probabilmente useremo solo al 10% delle sue possibilità
