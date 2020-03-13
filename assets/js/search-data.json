@@ -40,7 +40,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "Questo sito è un tentativo di rimanere in contatto e provare a fare un po’ di matematica da parte del vostro insegnante. . E voi siete gli studenti del prof. Paoluzi dell’Istituto di Istruzione Superiore “Domizia Lucilla” di Roma. . Questo sito è costruito con fastpages 1. . una piattaforma che probabilmente useremo solo al 10% delle sue possibilità &#8617; . |",
           "url": "https://profpaoluzi.github.io/classenellanuvola/about/",
           "relUrl": "/about/",
           "date": ""
